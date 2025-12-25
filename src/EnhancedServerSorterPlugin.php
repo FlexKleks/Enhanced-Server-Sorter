@@ -28,7 +28,7 @@ class EnhancedServerSorterPlugin implements HasPluginSettings, Plugin
 
     public function getId(): string
     {
-        return 'enhancedserversorter';
+        return 'Enhanced-Server-Sorter';
     }
 
     public function register(Panel $panel): void
